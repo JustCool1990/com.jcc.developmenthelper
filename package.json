@@ -1,0 +1,26 @@
+{
+  "author": "github.com/JustCool1990",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2",
+    "com.unity.textmeshpro": "3.0.9"
+  },
+  "description": "A plugin with a set of mechanics to simplify development.",
+  "displayName": "Development Helper Plugin",
+  "license": "MIT",
+  "name": "com.jcc.developmenthelper",
+  "samples": [
+    {
+      "description": "Contains UI prefab the SDK.",
+      "displayName": "Resource",
+      "path": "Samples~/Resource"
+    },
+    {
+      "description": "If not work place android-screenshotprotector.aar in Assets/Plugins/Android",
+      "displayName": "AndroidScreenshotProtector",
+      "path": "Samples~/AndroidScreenshotProtector"
+    }
+  ],
+  "type": "library",
+  "unity": "6000.0",
+  "version": "1.0.0"
+}
